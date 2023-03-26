@@ -55,3 +55,4 @@ export class Cuenta {
         console.log('Método padre');
     }
 }
+
