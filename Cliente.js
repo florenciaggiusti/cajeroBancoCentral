@@ -17,6 +17,6 @@ export class Cliente
     }
 
     autenticable(clave) {
-        return true;
+        return false;
     }
 }
